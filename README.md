@@ -1,4 +1,4 @@
-```markdown
+
 ## 🛰️ NMPC for UAV with 3-DOF Manipulator Arm
 
 <img src="NMPC_UAV_3DOFarm.gif" width="600"/>
@@ -15,7 +15,7 @@ The control approach integrates a **data-driven model (DMDc)** for high-dimensio
 ## 📁 Project Structure
 
 ```bash
-.
+
 ├── T_MPC_UAV1arm3DOF_quat.py         # Main NMPC script with quaternion-based attitude control
 ├── T_MPC_UAV1arm3DOF.py              # NMPC variant using Euler angles
 ├── mpcc_uav_manipulator.py.py        # MPC configuration and class definition
@@ -30,7 +30,6 @@ The control approach integrates a **data-driven model (DMDc)** for high-dimensio
 └── README.md                         # This documentation file
 ```
 
----
 
 ## ⚙️ Requirements
 
