@@ -1,7 +1,8 @@
 ```markdown
-# 🛰️ NMPC for UAV with 3-DOF Manipulator Arm
+## 🛰️ NMPC for UAV with 3-DOF Manipulator Arm
 
-![NMPC Animation](NMPC_UAV_3DOFarm.gif)
+<img src="NMPC_UAV_3DOFarm.gif" width="600"/>
+
 
 This repository contains Python code for simulating and evaluating a **Nonlinear Model Predictive Control (NMPC)** framework applied to a **UAV equipped with a 3-DOF robotic arm**, using **CasADi 3.5.5** and **ACADOS**.
 
@@ -97,7 +98,7 @@ This script can recreate figures like:
 
 > Developed as part of doctoral research by **Bryan S. Guevara** and collaborators.  
 For questions or collaboration, please contact:  
-📧 `bryansgue@bryansguepc`
+📧 `bryansgue@gmail.com`
 
 ---
 
@@ -106,6 +107,4 @@ For questions or collaboration, please contact:
 This project is open-source and available under the MIT License.
 ```
 
----
 
-¿Te gustaría que también genere un `requirements.txt` o un `environment.yml` para facilitar instalación?# NMPC_UAV_ARM3DOF
