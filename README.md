@@ -1,5 +1,5 @@
 
-## 🛰️ NMPC for UAV with 3-DOF Manipulator Arm
+## 🛰️ Data-Driven Model Predictive Control for Trajectory Tracking in UAV-Manipulator Systems
 
 <img src="NMPC_UAV_3DOFarm.gif" width="600"/>
 
